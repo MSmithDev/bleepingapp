@@ -1,0 +1,86 @@
+{
+	"00000000-0000-beef-001f-320000000000" : {
+		"title" : "Hardware Service"
+	},
+	"00000000-0000-beef-001f-320101000000" : {
+		"title" : "Device MAC"
+	},
+	"00000000-0000-beef-001f-320401000000" : {
+		"title" : "Device Uptime"
+	},
+	"00000000-0000-beef-001f-32f902000000" : {
+		"title" : "Reboot Device"
+	},
+	"00000000-0000-beef-001f-32fe00000000" : {
+		"title" : "Reset Device"
+	},
+	"00000000-0000-beef-001f-800000000000" : {
+		"title" : "Firmware Service"
+	},
+	"00000000-0000-beef-001f-800102000000" : {
+		"title" : "Do OTA Update"
+	},
+	"00000000-0000-beef-001f-800201000000" : {
+		"title" : "Installed Version"
+	},
+	"00000000-0000-beef-001f-800301000000" : {
+		"title" : "Lastest OTA Version"
+	},
+	"00000000-0000-beef-001f-808201000000" : {
+		"title" : "SDK Version"
+	},
+	"00000000-0000-beef-002f-320000000000" : {
+		"title" : "Hardware Properties"
+	},
+	"00000000-0000-beef-002f-320803000000" : {
+		"title" : "Device Name"
+	},
+	"00000000-0000-beef-002f-321203000000" : {
+		"title" : "Configured"
+	},
+	"00000000-0000-beef-002f-32f001000000" : {
+		"title" : "Boot Count"
+	},
+	"00000000-0000-beef-002f-400000000000" : {
+		"title" : "Network Properties"
+	},
+	"00000000-0000-beef-002f-400203000000" : {
+		"title" : "Network Name"
+	},
+	"00000000-0000-beef-002f-400302000000" : {
+		"title" : "Network Password"
+	},
+	"00000000-0000-beef-002f-a00000000000" : {
+		"title" : "Configuration Service"
+	},
+	"00000000-0000-beef-002f-a00001000000" : {
+		"title" : "Custom Config (R)"
+	},
+	"00000000-0000-beef-002f-a00002000000" : {
+		"title" : "Custom Config (W)"
+	},
+	"00000000-0000-beef-002f-a00003000000" : {
+		"title" : "Custom Config (RW)"
+	},
+	"00000000-0000-beef-002f-a00013000000" : {
+		"title" : "Sleep Timeout"
+	},
+	"00000000-0000-beef-002f-a00a13000000" : {
+		"title" : "Button ID"
+	},
+	"00000000-0000-beef-002f-a00a23000000" : {
+		"title" : "Button Action"
+	},
+	"00000000-0000-beef-003f-000000000000" : {
+		"title" : "Custom Service"
+	},
+	"00000000-0000-beef-003f-000001000000" : {
+		"title" : "Custom Service (R)"
+	},
+	"00000000-0000-beef-003f-000002000000" : {
+		"title" : "Custom Service (W)"
+	},
+	"00000000-0000-beef-003f-000003000000" : {
+		"title" : "Custom Service (RW)"
+	}
+}
